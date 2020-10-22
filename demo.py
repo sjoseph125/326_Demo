@@ -1,2 +1,4 @@
 """ Sample code for INST 326 Exercise"""
-print(hello)
+print("hello")
+
+print("goodbye")
